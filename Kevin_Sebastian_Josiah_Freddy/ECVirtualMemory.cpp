@@ -1,9 +1,4 @@
-//
-//  ECVirtualMemory.cpp
-//  
-//
-//  Created by Yufeng Wu on 8/30/23.
-//  Implement popular page replacement algorithms
+
 
 #include <iostream>
 #include <set>
