@@ -1,9 +1,4 @@
-//
-//  ECVirtualMemory.h
-//  
-//
-//  Created by Yufeng Wu on 8/30/23.
-//  Port the page replacement code to the ECVirtualMemory class 
+
 
 #ifndef ECVirtualMemory_h
 #define ECVirtualMemory_h
